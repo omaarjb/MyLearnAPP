@@ -15,4 +15,4 @@ Bienvenue dans notre **application de génération de quiz avec correction autom
 
 
 ### 📦 Démarrage de l'application :
--**Veuillez consulter les dossiers Backend / Frontend / Mobile pour les instructions de démarrage spécifiques à chaque partie de l'application.**
+- **Veuillez consulter les dossiers Backend / Frontend / Mobile pour les instructions de démarrage spécifiques à chaque partie de l'application.**
