@@ -1,4 +1,4 @@
-# 📚 Backend Spring Boot - Application de Quiz avec Correction Automatique 🎓
+# 📚 Backend Spring Boot - Application de Génération de Quiz Avec Correction Automatique 🎓
 
 Bienvenue dans la partie backend de notre **application de génération de quiz avec correction automatique** ! Ce projet a été conçu pour offrir une API robuste permettant aux **professeurs** de créer des quiz interactifs pour leurs étudiants, tout en simplifiant la gestion et l'évaluation des performances. 🚀
 
